@@ -1,0 +1,14 @@
+{
+  "name": "seo-pack-marketplace",
+  "description": "Marketplace for the SEO pack",
+  "owner": {
+    "name": "Will Mather"
+  },
+  "plugins": [
+    {
+      "name": "seo-pack",
+      "source": "./",
+      "description": "Weekly SEO loop, keyword map, page builder, local SEO, links and AI citations."
+    }
+  ]
+}

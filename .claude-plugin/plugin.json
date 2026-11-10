@@ -1,0 +1,9 @@
+{
+  "name": "seo-pack",
+  "version": "1.6.0",
+  "description": "A small SEO and AI-answer skill set: one front door (seo-loop, weekly and build modes), keyword map, page builder, local SEO, links plus AI citations, and a Jev row-judging campaign runbook. Data-first, fact-locked, owner-approved.",
+  "author": {
+    "name": "Will Mather"
+  },
+  "keywords": ["seo", "aeo", "local-seo", "content", "backlinks"]
+}
