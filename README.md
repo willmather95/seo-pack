@@ -1,5 +1,7 @@
 # seo-pack
 
+![An SEO engine that runs on agents: average Google position 20.5 to 14.4 on a 2,584-page site](docs/hero.png)
+
 Seven skills for SEO and AI-answer work, kept in one folder and installed the same way into Claude Code, Codex and Grok Bot.
 
 I built this pack to run a weekly SEO loop on my own sites with AI agents doing most of the work. It has been the operating manual for that loop since October 2026. It is opinionated: one change per site per week, a receipt for every number, and nothing public ships without the owner's yes.
@@ -13,6 +15,18 @@ I built this pack to run a weekly SEO loop on my own sites with AI agents doing 
 | `seo-local` | For businesses with a real location: Business Profile checklist, NAP and directories, review replies that protect privacy, grid rank tracking. |
 | `jev-seo-campaign` | Judges every row of a large export (queries, page pairs, link candidates) under a hard dollar cap, with a 50-row hand-label check before anything acts on its own. |
 | `seo-authority` | A weekly links lane: approved pitches, a 7-day AI Overview loop, owned authority over borrowed rank, and a parasite-SEO watch. |
+
+## Results
+
+Search Console on my own site [HSA Trackr](https://www.hsatrackr.com) (2,584 programmatic pages) while I built and ran this loop. It's one site and a short window, so read it as a direction, not proof that the pack alone did it.
+
+| | |
+|---|---|
+| Average Google position (Search Console, site level) | **20.5 → 14.4**, about 30% better. That's 28 days ending Sep 23 vs 28 days ending Oct 6, 2026. |
+| Change rule | **1 per site per week**, each one a pull request the owner approves |
+| Skills | **7**, one install for Claude Code, Codex and Grok Bot |
+
+The weekly pick comes from Search Console data, loaded nightly by [marketing-warehouse](https://github.com/willmather95/marketing-warehouse).
 
 ## Install
 
